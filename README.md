@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-excutar">Como excutar</a>
 </p>
 
@@ -36,4 +35,4 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 
 
-Feito com ♥ e ☕ by Lucas e Rocketseat 
+Feito com ♥ e ☕ by Lucas Krul e Rocketseat 
