@@ -35,4 +35,4 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 
 
 
-Feito com ♥ e ☕ by Lucas Krul e Rocketseat 
+Feito com ♥ e ☕ by Lucas Krul 
